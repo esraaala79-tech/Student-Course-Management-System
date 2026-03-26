@@ -2,6 +2,8 @@ Student Course Management System (C++)
 
  Overview
 Console-based system to manage students and their courses using C++ (OOP + STL).
+
+
  Features
 - Add / Remove Student  
 - Search Student (ID / Name)  
@@ -10,6 +12,8 @@ Console-based system to manage students and their courses using C++ (OOP + STL).
 - Show Courses  
 - Sort by GPA  
 - Save & Load from file  
+
+
  Technologies
 - C++
 - OOP
